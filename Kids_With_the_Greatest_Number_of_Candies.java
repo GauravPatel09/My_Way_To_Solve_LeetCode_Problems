@@ -1,5 +1,7 @@
 package org.example.leetcode75.My_Way_To_Solve_LeetCode_Problems;
 
+import java.util.List;
+
 public class Kids_With_the_Greatest_Number_of_Candies {
 //    1431. Kids With the Greatest Number of Candies Easy
 //    There are n kids with candies. You are given an integer array candies, where each candies[i] represents the number of candies the ith kid has, and an integer extraCandies, denoting the number of extra candies that you have.
@@ -16,7 +18,10 @@ public class Kids_With_the_Greatest_Number_of_Candies {
 //              - Kid 5, they will have 3 + 3 = 6 candies, which is the greatest among the kids.
 
 
+    class Solution {
+        public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
 
-
+        }
+    }
 
 }
