@@ -33,7 +33,6 @@ public class Kids_With_the_Greatest_Number_of_Candies {
 //                }
             }
             return result;
-            // candies_list.stream().filter(extraCandies->extraCandies+integer).forEach(Boolean flag -> true);=
         }
     }
 
