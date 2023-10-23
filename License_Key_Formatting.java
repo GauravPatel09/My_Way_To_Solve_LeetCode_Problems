@@ -23,6 +23,7 @@ public class License_Key_Formatting {
                 System.out.println("");
             }
             counter--;
+            //
             output = output.append(String.valueOf(input.charAt(i)));
         }
         String out = (output.reverse()).toString();
