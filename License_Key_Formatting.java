@@ -27,6 +27,7 @@ public class License_Key_Formatting {
         }
         String out = (output.reverse()).toString();
         String f1 = "New feature lo  added"; // this line for practicing Git branching only
+
         return out;
     }
 
