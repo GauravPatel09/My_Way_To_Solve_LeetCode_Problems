@@ -1,4 +1,4 @@
-package org.bank.demo.LeetCodeOnly;
+package org.example.My_Way_To_Solve_LeetCode_Problems;
 
 public class License_Key_Formatting {
     //    482. License Key Formatting      (Easy)
@@ -23,10 +23,10 @@ public class License_Key_Formatting {
                 System.out.println("");
             }
             counter--;
-            //
             output = output.append(String.valueOf(input.charAt(i)));
         }
         String out = (output.reverse()).toString();
+        String f1 = "New feature added"; // this line for practicing Git branching only
         return out;
     }
 
