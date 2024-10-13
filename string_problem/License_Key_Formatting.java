@@ -1,4 +1,4 @@
-package org.example.My_Way_To_Solve_LeetCode_Problems;
+package org.example.My_Way_To_Solve_LeetCode_Problems.string_problem;
 
 public class License_Key_Formatting {
     //    482. License Key Formatting      (Easy)

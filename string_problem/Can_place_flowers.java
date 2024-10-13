@@ -1,4 +1,4 @@
-package org.example.My_Way_To_Solve_LeetCode_Problems;
+package org.example.My_Way_To_Solve_LeetCode_Problems.string_problem;
 
 public class Can_place_flowers {
 //    You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.

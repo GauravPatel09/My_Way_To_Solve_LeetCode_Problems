@@ -1,4 +1,4 @@
-package org.example.My_Way_To_Solve_LeetCode_Problems;
+package org.example.My_Way_To_Solve_LeetCode_Problems.string_problem;
 
 import java.util.ArrayList;
 import java.util.List;
